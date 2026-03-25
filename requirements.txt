@@ -6,12 +6,12 @@ torchvision>=0.17.0
 mne>=1.7.0
 
 # XAI
-captum>=0.7.0
+captum>=0.8.0
 shap>=0.45.0
 
 # Data
-numpy>=1.26.0
-pandas>=2.2.0
+numpy>=2.4.3
+pandas>=3.0.1
 h5py>=3.10.0
 scipy>=1.13.0
 
